@@ -1,2 +1,5 @@
 .env
 __pycache__/
+customers.csv
+target_customers.csv
+approved_customers.csv
